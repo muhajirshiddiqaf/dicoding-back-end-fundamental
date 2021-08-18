@@ -1,2 +1,4 @@
 node_modules
-how_to_deploy.txt
+notes-api-web-server.pem
+.env
+.prod.env
